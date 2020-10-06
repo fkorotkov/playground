@@ -10,4 +10,4 @@ jobs:
 
     - run: echo "Hello"
     
-    - run: erk
+    - run: exit 1
